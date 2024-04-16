@@ -1,0 +1,7 @@
+*.hlsl linguist-detectable=false
+*.hlsli linguist-detectable=false
+*.cginc linguist-detectable=false
+*.fx linguist-detectable=false
+*.fxh linguist-detectable=false
+*.cs linguist-detectable=true
+*.shader linguist-detectable=false
